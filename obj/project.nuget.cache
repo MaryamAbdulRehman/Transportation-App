@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9qgaTQBgGTs=",
-  "success": false,
-  "projectFilePath": "F:\\courses\\Videos\\Important\\dotnet project\\TransportationApp\\Transportation App\\TransportationApp.csproj",
+  "dgSpecHash": "w2L7Yb4gLiQ=",
+  "success": true,
+  "projectFilePath": "F:\\courses\\Videos\\Important\\dotnet project\\TransportationApp\\Transportation-project\\Transportation-App\\TransportationApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\msn\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\msn\\.nuget\\packages\\microsoft.aspnetcore.diagnostics.entityframeworkcore\\9.0.5\\microsoft.aspnetcore.diagnostics.entityframeworkcore.9.0.5.nupkg.sha512",
@@ -23,7 +23,7 @@
     "C:\\Users\\msn\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\9.0.6\\microsoft.entityframeworkcore.relational.9.0.6.nupkg.sha512",
     "C:\\Users\\msn\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite\\9.0.6\\microsoft.entityframeworkcore.sqlite.9.0.6.nupkg.sha512",
     "C:\\Users\\msn\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite.core\\9.0.6\\microsoft.entityframeworkcore.sqlite.core.9.0.6.nupkg.sha512",
-    "C:\\Users\\msn\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\10.0.5\\microsoft.entityframeworkcore.tools.10.0.5.nupkg.sha512",
+    "C:\\Users\\msn\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\9.0.6\\microsoft.entityframeworkcore.tools.9.0.6.nupkg.sha512",
     "C:\\Users\\msn\\.nuget\\packages\\microsoft.extensions.apidescription.server\\8.0.14\\microsoft.extensions.apidescription.server.8.0.14.nupkg.sha512",
     "C:\\Users\\msn\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\9.0.6\\microsoft.extensions.caching.abstractions.9.0.6.nupkg.sha512",
     "C:\\Users\\msn\\.nuget\\packages\\microsoft.extensions.caching.memory\\9.0.6\\microsoft.extensions.caching.memory.9.0.6.nupkg.sha512",
@@ -70,17 +70,5 @@
     "C:\\Users\\msn\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512",
     "C:\\Users\\msn\\.nuget\\packages\\yamldotnet\\16.3.0\\yamldotnet.16.3.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1605",
-      "level": "Error",
-      "message": "Warning As Error: Detected package downgrade: Microsoft.EntityFrameworkCore.Design from 10.0.5 to 9.0.6. Reference the package directly from the project to select a different version. \r\n TransportationApp -> Microsoft.EntityFrameworkCore.Tools 10.0.5 -> Microsoft.EntityFrameworkCore.Design (>= 10.0.5) \r\n TransportationApp -> Microsoft.EntityFrameworkCore.Design (>= 9.0.6)",
-      "projectPath": "F:\\courses\\Videos\\Important\\dotnet project\\TransportationApp\\Transportation App\\TransportationApp.csproj",
-      "filePath": "F:\\courses\\Videos\\Important\\dotnet project\\TransportationApp\\Transportation App\\TransportationApp.csproj",
-      "libraryId": "Microsoft.EntityFrameworkCore.Design",
-      "targetGraphs": [
-        "net9.0"
-      ]
-    }
-  ]
+  "logs": []
 }

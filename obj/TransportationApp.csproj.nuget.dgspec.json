@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\courses\\Videos\\Important\\dotnet project\\TransportationApp\\Transportation App\\TransportationApp.csproj": {}
+    "F:\\courses\\Videos\\Important\\dotnet project\\TransportationApp\\Transportation-project\\Transportation-App\\TransportationApp.csproj": {}
   },
   "projects": {
-    "F:\\courses\\Videos\\Important\\dotnet project\\TransportationApp\\Transportation App\\TransportationApp.csproj": {
+    "F:\\courses\\Videos\\Important\\dotnet project\\TransportationApp\\Transportation-project\\Transportation-App\\TransportationApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\courses\\Videos\\Important\\dotnet project\\TransportationApp\\Transportation App\\TransportationApp.csproj",
+        "projectUniqueName": "F:\\courses\\Videos\\Important\\dotnet project\\TransportationApp\\Transportation-project\\Transportation-App\\TransportationApp.csproj",
         "projectName": "TransportationApp",
-        "projectPath": "F:\\courses\\Videos\\Important\\dotnet project\\TransportationApp\\Transportation App\\TransportationApp.csproj",
+        "projectPath": "F:\\courses\\Videos\\Important\\dotnet project\\TransportationApp\\Transportation-project\\Transportation-App\\TransportationApp.csproj",
         "packagesPath": "C:\\Users\\msn\\.nuget\\packages\\",
-        "outputPath": "F:\\courses\\Videos\\Important\\dotnet project\\TransportationApp\\Transportation App\\obj\\",
+        "outputPath": "F:\\courses\\Videos\\Important\\dotnet project\\TransportationApp\\Transportation-project\\Transportation-App\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -44,7 +44,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "10.0.100"
+        "SdkAnalysisLevel": "10.0.200"
       },
       "frameworks": {
         "net9.0": {
@@ -68,7 +68,7 @@
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[10.0.5, )"
+              "version": "[9.0.6, )"
             },
             "NSwag.AspNetCore": {
               "target": "Package",
@@ -94,7 +94,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.103/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
