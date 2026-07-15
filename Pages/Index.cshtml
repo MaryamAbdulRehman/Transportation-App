@@ -1,0 +1,79 @@
+@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Dashboard";
+}
+
+<div class="container mt-4">
+    <h2>Transportation Management Dashboard</h2>
+    
+    <div class="row mt-4">
+        <div class="col-md-6">
+            <div class="card">
+                <div class="card-header d-flex justify-content-between align-items-center">
+                    <h5 class="mb-0">Routes Overview</h5>
+                    <a href="/Routes" class="btn btn-primary btn-sm">Manage Routes</a>
+                </div>
+                <div class="card-body">
+                    <div class="table-responsive">
+                        <table class="table table-striped">
+                            <thead>
+                                <tr>
+                                    <th>Name</th>
+                                    <th>Origin</th>
+                                    <th>Destination</th>
+                                    <th>Distance</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @foreach (var route in Model.Routes)
+                                {
+                                    <tr>
+                                        <td>@route.Name</td>
+                                        <td>@route.Origin</td>
+                                        <td>@route.Destination</td>
+                                        <td>@route.Distance km</td>
+                                    </tr>
+                                }
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-6">
+            <div class="card">
+                <div class="card-header d-flex justify-content-between align-items-center">
+                    <h5 class="mb-0">Fleet Overview</h5>
+                    <a href="/Fleets" class="btn btn-primary btn-sm">Manage Fleet</a>
+                </div>
+                <div class="card-body">
+                    <div class="table-responsive">
+                        <table class="table table-striped">
+                            <thead>
+                                <tr>
+                                    <th>Vehicle Number</th>
+                                    <th>Type</th>
+                                    <th>Capacity</th>
+                                    <th>Route ID</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @foreach (var fleet in Model.Fleets)
+                                {
+                                    <tr>
+                                        <td>@fleet.VehicleNumber</td>
+                                        <td>@fleet.Type</td>
+                                        <td>@fleet.Capacity</td>
+                                        <td>@fleet.RouteId</td>
+                                    </tr>
+                                }
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

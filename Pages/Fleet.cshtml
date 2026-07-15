@@ -1,0 +1,110 @@
+@page
+@model FleetModel
+@{
+    ViewData["Title"] = "Fleet Management";
+}
+
+<h2>Fleet Management</h2>
+
+<p>
+    <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#addVehicleModal">
+        Add New Vehicle
+    </button>
+</p>
+
+<div class="table-responsive">
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Vehicle Number</th>
+                <th>Type</th>
+                <th>Capacity</th>
+                <th>Route</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var vehicle in Model.Fleets)
+            {
+                <tr>
+                    <td>@vehicle.VehicleNumber</td>
+                    <td>@vehicle.Type</td>
+                    <td>@vehicle.Capacity</td>
+                    <td>@(Model.GetRouteName(vehicle.RouteId))</td>
+                    <td>
+                        <button class="btn btn-sm btn-primary" onclick="editVehicle(@vehicle.Id)">Edit</button>
+                        <button class="btn btn-sm btn-danger" onclick="deleteVehicle(@vehicle.Id)">Delete</button>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+<!-- Add Vehicle Modal -->
+<div class="modal fade" id="addVehicleModal" tabindex="-1">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title">Add New Vehicle</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+            </div>
+            <form method="post">
+                <div class="modal-body">
+                    <div class="mb-3">
+                        <label for="vehicleNumber" class="form-label">Vehicle Number</label>
+                        <input type="text" class="form-control" id="vehicleNumber" name="Fleet.VehicleNumber" required>
+                    </div>
+                    <div class="mb-3">
+                        <label for="type" class="form-label">Type</label>
+                        <input type="text" class="form-control" id="type" name="Fleet.Type" required>
+                    </div>
+                    <div class="mb-3">
+                        <label for="capacity" class="form-label">Capacity</label>
+                        <input type="number" step="0.1" class="form-control" id="capacity" name="Fleet.Capacity" required>
+                    </div>
+                    <div class="mb-3">
+                        <label for="routeId" class="form-label">Route</label>
+                        <select class="form-select" id="routeId" name="Fleet.RouteId" required>
+                            <option value="">Select a route</option>
+                            @foreach (var route in Model.Routes)
+                            {
+                                <option value="@route.Id">@route.Name (@route.Origin - @route.Destination)</option>
+                            }
+                        </select>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                    <button type="submit" class="btn btn-primary">Save Vehicle</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script>
+        function editVehicle(id) {
+            // TODO: Implement edit functionality
+            alert('Edit vehicle: ' + id);
+        }
+
+        function deleteVehicle(id) {
+            if (confirm('Are you sure you want to delete this vehicle?')) {
+                fetch('/Fleet?handler=Delete&id=' + id, {
+                    method: 'DELETE',
+                    headers: {
+                        'RequestVerificationToken': document.querySelector('input[name="__RequestVerificationToken"]').value
+                    }
+                }).then(response => {
+                    if (response.ok) {
+                        location.reload();
+                    } else {
+                        alert('Error deleting vehicle');
+                    }
+                });
+            }
+        }
+    </script>
+}

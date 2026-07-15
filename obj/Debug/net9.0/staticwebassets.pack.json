@@ -1,0 +1,57 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Desktop\\TransportationApp\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Desktop\\TransportationApp\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Desktop\\TransportationApp\\wwwroot\\fleet.html",
+      "PackagePath": "staticwebassets\\fleet.html"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Desktop\\TransportationApp\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Desktop\\TransportationApp\\wwwroot\\js\\dashboard.js",
+      "PackagePath": "staticwebassets\\js\\dashboard.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Desktop\\TransportationApp\\wwwroot\\js\\fleet.js",
+      "PackagePath": "staticwebassets\\js\\fleet.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Desktop\\TransportationApp\\wwwroot\\js\\route.js",
+      "PackagePath": "staticwebassets\\js\\route.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Desktop\\TransportationApp\\wwwroot\\route.html",
+      "PackagePath": "staticwebassets\\route.html"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.TransportationApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.TransportationApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.TransportationApp.props",
+      "PackagePath": "build\\TransportationApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.TransportationApp.props",
+      "PackagePath": "buildMultiTargeting\\TransportationApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.TransportationApp.props",
+      "PackagePath": "buildTransitive\\TransportationApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

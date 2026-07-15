@@ -1,0 +1,685 @@
+E:\TransportationApp\bin\Debug\net9.0\appsettings.Development.json
+E:\TransportationApp\bin\Debug\net9.0\appsettings.json
+E:\TransportationApp\bin\Debug\net9.0\TransportationApp.staticwebassets.endpoints.json
+E:\TransportationApp\bin\Debug\net9.0\TransportationApp.exe
+E:\TransportationApp\bin\Debug\net9.0\TransportationApp.deps.json
+E:\TransportationApp\bin\Debug\net9.0\TransportationApp.runtimeconfig.json
+E:\TransportationApp\bin\Debug\net9.0\TransportationApp.dll
+E:\TransportationApp\bin\Debug\net9.0\TransportationApp.pdb
+E:\TransportationApp\bin\Debug\net9.0\Humanizer.dll
+E:\TransportationApp\bin\Debug\net9.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+E:\TransportationApp\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\TransportationApp\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+E:\TransportationApp\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+E:\TransportationApp\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\TransportationApp\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\TransportationApp\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\TransportationApp\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+E:\TransportationApp\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\TransportationApp\bin\Debug\net9.0\Microsoft.Data.Sqlite.dll
+E:\TransportationApp\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+E:\TransportationApp\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\TransportationApp\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\TransportationApp\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\TransportationApp\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\TransportationApp\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\TransportationApp\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+E:\TransportationApp\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\TransportationApp\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+E:\TransportationApp\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\TransportationApp\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+E:\TransportationApp\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+E:\TransportationApp\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\TransportationApp\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+E:\TransportationApp\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+E:\TransportationApp\bin\Debug\net9.0\Mono.TextTemplating.dll
+E:\TransportationApp\bin\Debug\net9.0\Namotion.Reflection.dll
+E:\TransportationApp\bin\Debug\net9.0\Newtonsoft.Json.dll
+E:\TransportationApp\bin\Debug\net9.0\NJsonSchema.dll
+E:\TransportationApp\bin\Debug\net9.0\NJsonSchema.Annotations.dll
+E:\TransportationApp\bin\Debug\net9.0\NJsonSchema.NewtonsoftJson.dll
+E:\TransportationApp\bin\Debug\net9.0\NJsonSchema.Yaml.dll
+E:\TransportationApp\bin\Debug\net9.0\NSwag.Annotations.dll
+E:\TransportationApp\bin\Debug\net9.0\NSwag.AspNetCore.dll
+E:\TransportationApp\bin\Debug\net9.0\NSwag.Core.dll
+E:\TransportationApp\bin\Debug\net9.0\NSwag.Core.Yaml.dll
+E:\TransportationApp\bin\Debug\net9.0\NSwag.Generation.dll
+E:\TransportationApp\bin\Debug\net9.0\NSwag.Generation.AspNetCore.dll
+E:\TransportationApp\bin\Debug\net9.0\SQLitePCLRaw.batteries_v2.dll
+E:\TransportationApp\bin\Debug\net9.0\SQLitePCLRaw.core.dll
+E:\TransportationApp\bin\Debug\net9.0\SQLitePCLRaw.provider.e_sqlite3.dll
+E:\TransportationApp\bin\Debug\net9.0\System.CodeDom.dll
+E:\TransportationApp\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+E:\TransportationApp\bin\Debug\net9.0\System.Composition.Convention.dll
+E:\TransportationApp\bin\Debug\net9.0\System.Composition.Hosting.dll
+E:\TransportationApp\bin\Debug\net9.0\System.Composition.Runtime.dll
+E:\TransportationApp\bin\Debug\net9.0\System.Composition.TypedParts.dll
+E:\TransportationApp\bin\Debug\net9.0\System.Text.Json.dll
+E:\TransportationApp\bin\Debug\net9.0\YamlDotNet.dll
+E:\TransportationApp\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\TransportationApp\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\TransportationApp\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\TransportationApp\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\TransportationApp\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\TransportationApp\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\TransportationApp\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\TransportationApp\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\TransportationApp\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\TransportationApp\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\TransportationApp\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\TransportationApp\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\TransportationApp\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\TransportationApp\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\TransportationApp\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\TransportationApp\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\TransportationApp\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\TransportationApp\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\TransportationApp\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\TransportationApp\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\TransportationApp\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\TransportationApp\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\TransportationApp\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\TransportationApp\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\TransportationApp\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\TransportationApp\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\TransportationApp\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\TransportationApp\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\TransportationApp\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\TransportationApp\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\TransportationApp\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\TransportationApp\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\TransportationApp\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\TransportationApp\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\TransportationApp\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\TransportationApp\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\TransportationApp\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\TransportationApp\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\TransportationApp\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\TransportationApp\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\TransportationApp\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\TransportationApp\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\TransportationApp\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\TransportationApp\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\TransportationApp\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\TransportationApp\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\TransportationApp\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\TransportationApp\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\TransportationApp\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\TransportationApp\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\TransportationApp\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\TransportationApp\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\TransportationApp\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\TransportationApp\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\TransportationApp\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\TransportationApp\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\TransportationApp\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\TransportationApp\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\TransportationApp\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\TransportationApp\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\TransportationApp\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\TransportationApp\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\TransportationApp\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\TransportationApp\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\TransportationApp\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\TransportationApp\bin\Debug\net9.0\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+E:\TransportationApp\bin\Debug\net9.0\runtimes\linux-arm\native\libe_sqlite3.so
+E:\TransportationApp\bin\Debug\net9.0\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\TransportationApp\bin\Debug\net9.0\runtimes\linux-armel\native\libe_sqlite3.so
+E:\TransportationApp\bin\Debug\net9.0\runtimes\linux-mips64\native\libe_sqlite3.so
+E:\TransportationApp\bin\Debug\net9.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+E:\TransportationApp\bin\Debug\net9.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+E:\TransportationApp\bin\Debug\net9.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+E:\TransportationApp\bin\Debug\net9.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\TransportationApp\bin\Debug\net9.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+E:\TransportationApp\bin\Debug\net9.0\runtimes\linux-s390x\native\libe_sqlite3.so
+E:\TransportationApp\bin\Debug\net9.0\runtimes\linux-x64\native\libe_sqlite3.so
+E:\TransportationApp\bin\Debug\net9.0\runtimes\linux-x86\native\libe_sqlite3.so
+E:\TransportationApp\bin\Debug\net9.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+E:\TransportationApp\bin\Debug\net9.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+E:\TransportationApp\bin\Debug\net9.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+E:\TransportationApp\bin\Debug\net9.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\TransportationApp\bin\Debug\net9.0\runtimes\win-arm\native\e_sqlite3.dll
+E:\TransportationApp\bin\Debug\net9.0\runtimes\win-arm64\native\e_sqlite3.dll
+E:\TransportationApp\bin\Debug\net9.0\runtimes\win-x64\native\e_sqlite3.dll
+E:\TransportationApp\bin\Debug\net9.0\runtimes\win-x86\native\e_sqlite3.dll
+E:\TransportationApp\obj\Debug\net9.0\TransportationApp.csproj.AssemblyReference.cache
+E:\TransportationApp\obj\Debug\net9.0\TransportationApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\TransportationApp\obj\Debug\net9.0\TransportationApp.AssemblyInfoInputs.cache
+E:\TransportationApp\obj\Debug\net9.0\TransportationApp.AssemblyInfo.cs
+E:\TransportationApp\obj\Debug\net9.0\TransportationApp.csproj.CoreCompileInputs.cache
+E:\TransportationApp\obj\Debug\net9.0\TransportationApp.MvcApplicationPartsAssemblyInfo.cs
+E:\TransportationApp\obj\Debug\net9.0\TransportationApp.MvcApplicationPartsAssemblyInfo.cache
+E:\TransportationApp\obj\Debug\net9.0\scopedcss\bundle\TransportationApp.styles.css
+E:\TransportationApp\obj\Debug\net9.0\staticwebassets.build.json
+E:\TransportationApp\obj\Debug\net9.0\staticwebassets.development.json
+E:\TransportationApp\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+E:\TransportationApp\obj\Debug\net9.0\staticwebassets\msbuild.TransportationApp.Microsoft.AspNetCore.StaticWebAssets.props
+E:\TransportationApp\obj\Debug\net9.0\staticwebassets\msbuild.TransportationApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\TransportationApp\obj\Debug\net9.0\staticwebassets\msbuild.build.TransportationApp.props
+E:\TransportationApp\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.TransportationApp.props
+E:\TransportationApp\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.TransportationApp.props
+E:\TransportationApp\obj\Debug\net9.0\staticwebassets.pack.json
+E:\TransportationApp\obj\Debug\net9.0\Transpor.F63A179E.Up2Date
+E:\TransportationApp\obj\Debug\net9.0\TransportationApp.dll
+E:\TransportationApp\obj\Debug\net9.0\refint\TransportationApp.dll
+E:\TransportationApp\obj\Debug\net9.0\TransportationApp.pdb
+E:\TransportationApp\obj\Debug\net9.0\TransportationApp.genruntimeconfig.cache
+E:\TransportationApp\obj\Debug\net9.0\ref\TransportationApp.dll
+C:\TransportationApp\bin\Debug\net9.0\appsettings.Development.json
+C:\TransportationApp\bin\Debug\net9.0\appsettings.json
+C:\TransportationApp\bin\Debug\net9.0\TransportationApp.staticwebassets.endpoints.json
+C:\TransportationApp\bin\Debug\net9.0\TransportationApp.exe
+C:\TransportationApp\bin\Debug\net9.0\TransportationApp.deps.json
+C:\TransportationApp\bin\Debug\net9.0\TransportationApp.runtimeconfig.json
+C:\TransportationApp\bin\Debug\net9.0\TransportationApp.dll
+C:\TransportationApp\bin\Debug\net9.0\TransportationApp.pdb
+C:\TransportationApp\bin\Debug\net9.0\Humanizer.dll
+C:\TransportationApp\bin\Debug\net9.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\TransportationApp\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\TransportationApp\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\TransportationApp\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\TransportationApp\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\TransportationApp\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\TransportationApp\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\TransportationApp\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\TransportationApp\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\TransportationApp\bin\Debug\net9.0\Microsoft.Data.Sqlite.dll
+C:\TransportationApp\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\TransportationApp\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\TransportationApp\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\TransportationApp\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\TransportationApp\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\TransportationApp\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\TransportationApp\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\TransportationApp\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\TransportationApp\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\TransportationApp\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\TransportationApp\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\TransportationApp\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\TransportationApp\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\TransportationApp\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\TransportationApp\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\TransportationApp\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\TransportationApp\bin\Debug\net9.0\Namotion.Reflection.dll
+C:\TransportationApp\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\TransportationApp\bin\Debug\net9.0\NJsonSchema.dll
+C:\TransportationApp\bin\Debug\net9.0\NJsonSchema.Annotations.dll
+C:\TransportationApp\bin\Debug\net9.0\NJsonSchema.NewtonsoftJson.dll
+C:\TransportationApp\bin\Debug\net9.0\NJsonSchema.Yaml.dll
+C:\TransportationApp\bin\Debug\net9.0\NSwag.Annotations.dll
+C:\TransportationApp\bin\Debug\net9.0\NSwag.AspNetCore.dll
+C:\TransportationApp\bin\Debug\net9.0\NSwag.Core.dll
+C:\TransportationApp\bin\Debug\net9.0\NSwag.Core.Yaml.dll
+C:\TransportationApp\bin\Debug\net9.0\NSwag.Generation.dll
+C:\TransportationApp\bin\Debug\net9.0\NSwag.Generation.AspNetCore.dll
+C:\TransportationApp\bin\Debug\net9.0\SQLitePCLRaw.batteries_v2.dll
+C:\TransportationApp\bin\Debug\net9.0\SQLitePCLRaw.core.dll
+C:\TransportationApp\bin\Debug\net9.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\TransportationApp\bin\Debug\net9.0\System.CodeDom.dll
+C:\TransportationApp\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\TransportationApp\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\TransportationApp\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\TransportationApp\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\TransportationApp\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\TransportationApp\bin\Debug\net9.0\System.Text.Json.dll
+C:\TransportationApp\bin\Debug\net9.0\YamlDotNet.dll
+C:\TransportationApp\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\TransportationApp\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\TransportationApp\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\TransportationApp\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\TransportationApp\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\TransportationApp\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\TransportationApp\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\TransportationApp\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\TransportationApp\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\TransportationApp\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\TransportationApp\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\TransportationApp\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\TransportationApp\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\TransportationApp\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TransportationApp\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TransportationApp\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TransportationApp\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TransportationApp\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TransportationApp\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TransportationApp\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TransportationApp\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TransportationApp\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TransportationApp\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TransportationApp\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TransportationApp\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TransportationApp\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TransportationApp\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TransportationApp\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TransportationApp\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TransportationApp\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TransportationApp\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TransportationApp\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TransportationApp\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TransportationApp\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TransportationApp\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TransportationApp\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TransportationApp\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TransportationApp\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TransportationApp\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TransportationApp\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TransportationApp\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TransportationApp\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TransportationApp\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TransportationApp\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TransportationApp\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TransportationApp\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TransportationApp\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TransportationApp\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TransportationApp\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TransportationApp\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TransportationApp\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TransportationApp\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TransportationApp\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\TransportationApp\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\TransportationApp\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\TransportationApp\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\TransportationApp\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\TransportationApp\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\TransportationApp\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\TransportationApp\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\TransportationApp\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\TransportationApp\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\TransportationApp\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\TransportationApp\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\TransportationApp\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\TransportationApp\bin\Debug\net9.0\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+C:\TransportationApp\bin\Debug\net9.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\TransportationApp\bin\Debug\net9.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\TransportationApp\bin\Debug\net9.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\TransportationApp\bin\Debug\net9.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\TransportationApp\bin\Debug\net9.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\TransportationApp\bin\Debug\net9.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\TransportationApp\bin\Debug\net9.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+C:\TransportationApp\bin\Debug\net9.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\TransportationApp\bin\Debug\net9.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\TransportationApp\bin\Debug\net9.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\TransportationApp\bin\Debug\net9.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\TransportationApp\bin\Debug\net9.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\TransportationApp\bin\Debug\net9.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\TransportationApp\bin\Debug\net9.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\TransportationApp\bin\Debug\net9.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\TransportationApp\bin\Debug\net9.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\TransportationApp\bin\Debug\net9.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\TransportationApp\bin\Debug\net9.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\TransportationApp\bin\Debug\net9.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\TransportationApp\bin\Debug\net9.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\TransportationApp\obj\Debug\net9.0\TransportationApp.csproj.AssemblyReference.cache
+C:\TransportationApp\obj\Debug\net9.0\TransportationApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\TransportationApp\obj\Debug\net9.0\TransportationApp.AssemblyInfoInputs.cache
+C:\TransportationApp\obj\Debug\net9.0\TransportationApp.AssemblyInfo.cs
+C:\TransportationApp\obj\Debug\net9.0\TransportationApp.csproj.CoreCompileInputs.cache
+C:\TransportationApp\obj\Debug\net9.0\TransportationApp.MvcApplicationPartsAssemblyInfo.cs
+C:\TransportationApp\obj\Debug\net9.0\TransportationApp.MvcApplicationPartsAssemblyInfo.cache
+C:\TransportationApp\obj\Debug\net9.0\scopedcss\bundle\TransportationApp.styles.css
+C:\TransportationApp\obj\Debug\net9.0\staticwebassets.build.json
+C:\TransportationApp\obj\Debug\net9.0\staticwebassets.development.json
+C:\TransportationApp\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\TransportationApp\obj\Debug\net9.0\staticwebassets\msbuild.TransportationApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\TransportationApp\obj\Debug\net9.0\staticwebassets\msbuild.TransportationApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\TransportationApp\obj\Debug\net9.0\staticwebassets\msbuild.build.TransportationApp.props
+C:\TransportationApp\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.TransportationApp.props
+C:\TransportationApp\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.TransportationApp.props
+C:\TransportationApp\obj\Debug\net9.0\staticwebassets.pack.json
+C:\TransportationApp\obj\Debug\net9.0\Transpor.F63A179E.Up2Date
+C:\TransportationApp\obj\Debug\net9.0\TransportationApp.dll
+C:\TransportationApp\obj\Debug\net9.0\refint\TransportationApp.dll
+C:\TransportationApp\obj\Debug\net9.0\TransportationApp.pdb
+C:\TransportationApp\obj\Debug\net9.0\TransportationApp.genruntimeconfig.cache
+C:\TransportationApp\obj\Debug\net9.0\ref\TransportationApp.dll
+C:\TransportationApp\obj\Debug\net9.0\TransportationApp.RazorAssemblyInfo.cache
+C:\TransportationApp\obj\Debug\net9.0\TransportationApp.RazorAssemblyInfo.cs
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\appsettings.Development.json
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\appsettings.json
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\TransportationApp.staticwebassets.endpoints.json
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\TransportationApp.exe
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\TransportationApp.deps.json
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\TransportationApp.runtimeconfig.json
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\TransportationApp.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\TransportationApp.pdb
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\Humanizer.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\Microsoft.Data.Sqlite.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\Mono.TextTemplating.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\Namotion.Reflection.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\Newtonsoft.Json.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\NJsonSchema.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\NJsonSchema.Annotations.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\NJsonSchema.NewtonsoftJson.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\NJsonSchema.Yaml.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\NSwag.Annotations.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\NSwag.AspNetCore.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\NSwag.Core.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\NSwag.Core.Yaml.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\NSwag.Generation.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\NSwag.Generation.AspNetCore.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\SQLitePCLRaw.batteries_v2.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\SQLitePCLRaw.core.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\SQLitePCLRaw.provider.e_sqlite3.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\System.CodeDom.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\System.Composition.Convention.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\System.Composition.Hosting.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\System.Composition.Runtime.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\System.Composition.TypedParts.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\YamlDotNet.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\runtimes\linux-arm\native\libe_sqlite3.so
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\runtimes\linux-arm64\native\libe_sqlite3.so
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\runtimes\linux-armel\native\libe_sqlite3.so
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\runtimes\linux-mips64\native\libe_sqlite3.so
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\runtimes\linux-s390x\native\libe_sqlite3.so
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\runtimes\linux-x64\native\libe_sqlite3.so
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\runtimes\linux-x86\native\libe_sqlite3.so
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\runtimes\win-arm\native\e_sqlite3.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\runtimes\win-arm64\native\e_sqlite3.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\runtimes\win-x64\native\e_sqlite3.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\bin\Debug\net9.0\runtimes\win-x86\native\e_sqlite3.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\obj\Debug\net9.0\TransportationApp.csproj.AssemblyReference.cache
+F:\courses\Videos\Important\dotnet project\TransportationApp\obj\Debug\net9.0\rpswa.dswa.cache.json
+F:\courses\Videos\Important\dotnet project\TransportationApp\obj\Debug\net9.0\TransportationApp.GeneratedMSBuildEditorConfig.editorconfig
+F:\courses\Videos\Important\dotnet project\TransportationApp\obj\Debug\net9.0\TransportationApp.AssemblyInfoInputs.cache
+F:\courses\Videos\Important\dotnet project\TransportationApp\obj\Debug\net9.0\TransportationApp.AssemblyInfo.cs
+F:\courses\Videos\Important\dotnet project\TransportationApp\obj\Debug\net9.0\TransportationApp.csproj.CoreCompileInputs.cache
+F:\courses\Videos\Important\dotnet project\TransportationApp\obj\Debug\net9.0\TransportationApp.MvcApplicationPartsAssemblyInfo.cs
+F:\courses\Videos\Important\dotnet project\TransportationApp\obj\Debug\net9.0\TransportationApp.MvcApplicationPartsAssemblyInfo.cache
+F:\courses\Videos\Important\dotnet project\TransportationApp\obj\Debug\net9.0\TransportationApp.RazorAssemblyInfo.cache
+F:\courses\Videos\Important\dotnet project\TransportationApp\obj\Debug\net9.0\TransportationApp.RazorAssemblyInfo.cs
+F:\courses\Videos\Important\dotnet project\TransportationApp\obj\Debug\net9.0\rjimswa.dswa.cache.json
+F:\courses\Videos\Important\dotnet project\TransportationApp\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+F:\courses\Videos\Important\dotnet project\TransportationApp\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+F:\courses\Videos\Important\dotnet project\TransportationApp\obj\Debug\net9.0\scopedcss\bundle\TransportationApp.styles.css
+F:\courses\Videos\Important\dotnet project\TransportationApp\obj\Debug\net9.0\staticwebassets.build.json
+F:\courses\Videos\Important\dotnet project\TransportationApp\obj\Debug\net9.0\staticwebassets.build.json.cache
+F:\courses\Videos\Important\dotnet project\TransportationApp\obj\Debug\net9.0\staticwebassets.development.json
+F:\courses\Videos\Important\dotnet project\TransportationApp\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+F:\courses\Videos\Important\dotnet project\TransportationApp\obj\Debug\net9.0\swae.build.ex.cache
+F:\courses\Videos\Important\dotnet project\TransportationApp\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+F:\courses\Videos\Important\dotnet project\TransportationApp\obj\Debug\net9.0\Transpor.F63A179E.Up2Date
+F:\courses\Videos\Important\dotnet project\TransportationApp\obj\Debug\net9.0\TransportationApp.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\obj\Debug\net9.0\refint\TransportationApp.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\obj\Debug\net9.0\TransportationApp.pdb
+F:\courses\Videos\Important\dotnet project\TransportationApp\obj\Debug\net9.0\TransportationApp.genruntimeconfig.cache
+F:\courses\Videos\Important\dotnet project\TransportationApp\obj\Debug\net9.0\ref\TransportationApp.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\appsettings.Development.json
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\appsettings.json
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\client\package.json
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\TransportationApp.staticwebassets.runtime.json
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\TransportationApp.staticwebassets.endpoints.json
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\TransportationApp.exe
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\TransportationApp.deps.json
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\TransportationApp.runtimeconfig.json
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\TransportationApp.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\TransportationApp.pdb
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\Humanizer.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\Microsoft.Data.Sqlite.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\Mono.TextTemplating.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\Namotion.Reflection.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\Newtonsoft.Json.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\NJsonSchema.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\NJsonSchema.Annotations.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\NJsonSchema.NewtonsoftJson.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\NJsonSchema.Yaml.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\NSwag.Annotations.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\NSwag.AspNetCore.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\NSwag.Core.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\NSwag.Core.Yaml.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\NSwag.Generation.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\NSwag.Generation.AspNetCore.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\SQLitePCLRaw.batteries_v2.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\SQLitePCLRaw.core.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\SQLitePCLRaw.provider.e_sqlite3.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\System.CodeDom.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\System.Composition.Convention.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\System.Composition.Hosting.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\System.Composition.Runtime.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\System.Composition.TypedParts.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\YamlDotNet.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\runtimes\linux-arm\native\libe_sqlite3.so
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\runtimes\linux-arm64\native\libe_sqlite3.so
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\runtimes\linux-armel\native\libe_sqlite3.so
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\runtimes\linux-mips64\native\libe_sqlite3.so
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\runtimes\linux-s390x\native\libe_sqlite3.so
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\runtimes\linux-x64\native\libe_sqlite3.so
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\runtimes\linux-x86\native\libe_sqlite3.so
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\runtimes\win-arm\native\e_sqlite3.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\runtimes\win-arm64\native\e_sqlite3.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\runtimes\win-x64\native\e_sqlite3.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\bin\Debug\net9.0\runtimes\win-x86\native\e_sqlite3.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\obj\Debug\net9.0\TransportationApp.csproj.AssemblyReference.cache
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\obj\Debug\net9.0\rpswa.dswa.cache.json
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\obj\Debug\net9.0\TransportationApp.GeneratedMSBuildEditorConfig.editorconfig
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\obj\Debug\net9.0\TransportationApp.AssemblyInfoInputs.cache
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\obj\Debug\net9.0\TransportationApp.AssemblyInfo.cs
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\obj\Debug\net9.0\TransportationApp.csproj.CoreCompileInputs.cache
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\obj\Debug\net9.0\TransportationApp.MvcApplicationPartsAssemblyInfo.cs
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\obj\Debug\net9.0\TransportationApp.MvcApplicationPartsAssemblyInfo.cache
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\obj\Debug\net9.0\TransportationApp.RazorAssemblyInfo.cache
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\obj\Debug\net9.0\TransportationApp.RazorAssemblyInfo.cs
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\obj\Debug\net9.0\TransportationApp.sourcelink.json
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\obj\Debug\net9.0\rjimswa.dswa.cache.json
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\obj\Debug\net9.0\scopedcss\bundle\TransportationApp.styles.css
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\obj\Debug\net9.0\compressed\7simka4m6i-{0}-5ipweew5fc-5ipweew5fc.gz
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\obj\Debug\net9.0\compressed\g2fhht5rah-{0}-qg1o6sps1g-qg1o6sps1g.gz
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\obj\Debug\net9.0\compressed\kzio5qtt7z-{0}-0s5gekhed4-0s5gekhed4.gz
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\obj\Debug\net9.0\compressed\5w6qzomqvj-{0}-dnsljamv5w-dnsljamv5w.gz
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\obj\Debug\net9.0\compressed\e18svzliby-{0}-ug1ggaucou-ug1ggaucou.gz
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\obj\Debug\net9.0\compressed\m073enoq3p-{0}-lzah69iy3e-lzah69iy3e.gz
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\obj\Debug\net9.0\compressed\znof0o5yhu-{0}-fslodphbaa-fslodphbaa.gz
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\obj\Debug\net9.0\compressed\fonncgun33-{0}-kcigbuzgoa-kcigbuzgoa.gz
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\obj\Debug\net9.0\staticwebassets.build.json
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\obj\Debug\net9.0\staticwebassets.build.json.cache
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\obj\Debug\net9.0\staticwebassets.development.json
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\obj\Debug\net9.0\swae.build.ex.cache
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\obj\Debug\net9.0\Transpor.F63A179E.Up2Date
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\obj\Debug\net9.0\TransportationApp.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\obj\Debug\net9.0\refint\TransportationApp.dll
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\obj\Debug\net9.0\TransportationApp.pdb
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\obj\Debug\net9.0\TransportationApp.genruntimeconfig.cache
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\obj\Debug\net9.0\ref\TransportationApp.dll

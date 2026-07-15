@@ -1,0 +1,16 @@
+wwwroot\css\site.css
+wwwroot\css\style.css
+wwwroot\fleet.html
+wwwroot\index.html
+wwwroot\js\dashboard.js
+wwwroot\js\fleet.js
+wwwroot\js\route.js
+wwwroot\route.html
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\wwwroot\css\site.css
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\wwwroot\css\style.css
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\wwwroot\fleet.html
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\wwwroot\index.html
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\wwwroot\js\dashboard.js
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\wwwroot\js\fleet.js
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\wwwroot\js\route.js
+F:\courses\Videos\Important\dotnet project\TransportationApp\Transportation App\wwwroot\route.html

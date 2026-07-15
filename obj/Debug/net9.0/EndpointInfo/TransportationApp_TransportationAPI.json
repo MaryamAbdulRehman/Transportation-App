@@ -1,0 +1,176 @@
+{
+  "x-generator": "NSwag v14.4.0.0 (NJsonSchema v11.3.2.0 (Newtonsoft.Json v13.0.0.0))",
+  "openapi": "3.0.0",
+  "info": {
+    "title": "TransportationAPI v1",
+    "version": "v1"
+  },
+  "paths": {
+    "/": {
+      "get": {
+        "operationId": "Get",
+        "responses": {
+          "200": {
+            "description": "",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/CreateRoute": {
+      "post": {
+        "operationId": "PostCreateRoute",
+        "requestBody": {
+          "x-name": "route",
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Route"
+              }
+            }
+          },
+          "required": true,
+          "x-position": 1
+        },
+        "responses": {
+          "200": {
+            "description": "",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Route"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/GetRoute ": {
+      "get": {
+        "operationId": "GetGetRoute ",
+        "responses": {
+          "200": {
+            "description": "",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Route"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/RemoveRoute/{id}": {
+      "delete": {
+        "operationId": "DeleteRemoveRoute",
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            },
+            "x-position": 1
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Route"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/UpdateRoute/{id}": {
+      "put": {
+        "operationId": "PutUpdateRoute",
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            },
+            "x-position": 1
+          }
+        ],
+        "requestBody": {
+          "x-name": "newRoute",
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Route"
+              }
+            }
+          },
+          "required": true,
+          "x-position": 2
+        },
+        "responses": {
+          "200": {
+            "description": "",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Route"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "Route": {
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {
+          "id": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "name": {
+            "type": "string",
+            "nullable": true
+          },
+          "origin": {
+            "type": "string",
+            "nullable": true
+          },
+          "destination": {
+            "type": "string",
+            "nullable": true
+          },
+          "distance": {
+            "type": "number",
+            "format": "double"
+          }
+        }
+      }
+    }
+  }
+}
